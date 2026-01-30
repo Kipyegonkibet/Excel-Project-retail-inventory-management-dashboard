@@ -33,5 +33,5 @@ This project demonstrates a real-world retail inventory analytics solution built
 
 ## Author
 Evans Kibet  
-Data ientist | Excel | 
+Data Scientist | Excel | 
 
